@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**arthurrio/arthurrio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Wellcome 
 
-Here are some ideas to get you started:
+</br>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=arthurrio&show_icons=true&hide_border=true&theme=transparent" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me 
+I'm Software Engineer focused in Java language and microservices solutions 
+
+Time ago this account was use just for privated projects but now I'm bringing some small projects 
+about what I'm studying and hope to share my knowloged 
+
+:mailbox: Fell free to send any question arthur@arthur.rio
+
