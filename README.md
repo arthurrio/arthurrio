@@ -2,6 +2,7 @@
 ### Wellcome 
 
 </br>
+<div>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=arthurrio&show_icons=true&hide_border=true&theme=transparent" />
 
 ### About me 
@@ -12,3 +13,4 @@ about what I'm studying and hope to share my knowloged
 
 :mailbox: Fell free to send any question arthur@arthur.rio
 
+</div>
