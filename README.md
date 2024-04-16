@@ -1,4 +1,4 @@
 
-![Hello WORLD !](https://res.cloudinary.com/daily-now/image/upload/s--xWc0E7jH--/f_auto/v1713238615/ugc/content_6b4f50b5-e1e3-469d-b5fa-9bb74ec3a00c)
+![Hello WORLD ! Ops! Hello There!](https://res.cloudinary.com/daily-now/image/upload/s--sRAtB4Ng--/f_auto/v1713238789/ugc/content_c8123914-2744-402b-8c98-5050091eccca)
 
 <p> :mailbox: Fell free to send any question arthur@arthurrio.com </p>
