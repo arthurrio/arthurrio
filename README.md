@@ -4,4 +4,4 @@
 
 <a href="https://app.daily.dev/arthurrio"><img src="./devcard.png" width="356" alt="Arthur Rio's Dev Card"/></a>
 
-<p> :mailbox: Fell free to send any question arthur@arthurrio.com </p>
+<p> :mailbox: Fell free to send any question arthur_rio@icloud.com </p>
